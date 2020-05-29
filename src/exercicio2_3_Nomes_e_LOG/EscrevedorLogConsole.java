@@ -1,0 +1,1 @@
+package exercicio2_3_Nomes_e_LOG;public class EscrevedorLogConsole extends EscrevedorLog {	protected FerramentaLog criarFerramentaLog() {		return new FerramentaLogConsole();	}}

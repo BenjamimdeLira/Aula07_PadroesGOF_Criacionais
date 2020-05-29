@@ -1,0 +1,1 @@
+package exercicio1_2_PIZZARIA;public interface Pizzaiolo {	Pizza criarPizza();	Calzone criarCalzone();}

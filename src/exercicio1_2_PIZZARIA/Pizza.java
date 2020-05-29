@@ -1,0 +1,1 @@
+package exercicio1_2_PIZZARIA;public abstract class Pizza {	public abstract String obterIngredientes();}
